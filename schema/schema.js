@@ -5,12 +5,12 @@ const { GraphQLObjectType, GraphQLString, GraphQLInt, GraphQLSchema } = graphql;
 
 const users = [
   {
-    id: 1,
+    id: '1',
     firstName: 'Hassan',
     age: 22,
   },
   {
-    id: 2,
+    id: '2',
     firstName: 'Khan',
     age: 23,
   },
