@@ -3,12 +3,32 @@
     {
       "id": "1",
       "firstName": "Hassan",
-      "age": 22
+      "age": 22,
+      "companyId": "11"
     },
     {
       "id": "2",
       "firstName": "Khan",
-      "age": 23
+      "age": 23,
+      "companyId": "22"
+    },
+    {
+      "id": "3",
+      "firstName": "Babar",
+      "age": 23,
+      "companyId": "11"
+    }
+  ],
+  "companies": [
+    {
+      "id": "11",
+      "name": "Xord",
+      "description": "Blockchain based company"
+    },
+    {
+      "id": "22",
+      "name": "Xehen",
+      "description": "AI based company"
     }
   ]
 }
